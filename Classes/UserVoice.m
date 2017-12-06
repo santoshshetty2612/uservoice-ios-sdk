@@ -170,7 +170,7 @@ static NSBundle *userVoiceBundle;
 }
 
 + (NSString *)version {
-    return @"3.2.9";
+    return @"3.2.12";
 }
 
 
